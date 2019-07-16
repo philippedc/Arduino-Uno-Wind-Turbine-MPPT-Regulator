@@ -1,5 +1,6 @@
 # Arduino-Uno-Wind-Turbine-MPPT-Regulator
 This is a project that explain how to build a wind turbine MPPT regulator with an Arduino Uno rev.3 and some others unsual components. This regulator is driven by a Piggott 1.80m 350W wind turbine since the 7 july 2019.
+This Wind Turbine MPPT Regulator can operate within direct injection or battery configuration, 24V or 48V, 30A max.
 
 For a wind turbine, a regulator has two goals: 
 To protect the wind turbine against over speed of the turbine that may destroy it,
